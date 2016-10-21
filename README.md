@@ -20,4 +20,4 @@ expectation(for: NSPredicate(format: "exists == 1"),
 waitForExpectations(timeout: 5, handler: nil)  
 ```
  
-Created a radar bug report (# [28884023](rdar://28884023]) 
+Created a radar bug report #[28884023](rdar://28884023)
