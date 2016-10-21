@@ -1,4 +1,4 @@
-=UI Testing Table View Hang Demo Project=
+#UI Testing Table View Hang Demo Project#
 
 This project demonstrates UI Testing hanging when there's a UITableView in the view hierarchy with more than 500 rows in it.
 
